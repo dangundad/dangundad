@@ -11,7 +11,7 @@
 
 > 🚀 **Solo App Creator & Automation Systems Architect**  
 > 모바일 앱 기획부터 11개국 현지화(ASO), 인앱 결제, 멀티 플랫폼 빌드 및 스토어 무인 배포 자동화까지 풀사이클을 구축하고 운영하는 1인 인디 개발자입니다.  
-> 50개 이상의 모바일 앱(Google Play & App Store), 토스(Toss) 미니앱, 실용적인 웹 계산기 및 생산성 도구를 지속적으로 개발하고 있습니다.
+> 150개 이상의 글로벌 모바일 앱(Google Play & App Store), 토스(Toss) 미니앱, 실용적인 웹 서비스 및 생산성 도구를 지속적으로 개발하고 있습니다.
 
 ---
 
@@ -74,56 +74,71 @@
 
 ---
 
-### 📱 Featured Mobile Apps (주요 출시 앱)
+### 📱 Featured Mobile Apps (주요 출시 및 주력 앱)
 
 <table>
   <thead>
     <tr>
-      <th width="30%">앱 이름</th>
-      <th width="50%">소개</th>
-      <th width="20%">스토어 링크</th>
+      <th width="28%">앱 이름</th>
+      <th width="52%">소개 및 특징</th>
+      <th width="20%">스토어 / 링크</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b>🔊 Volume Up</b></td>
-      <td>소리 증폭기 & 5밴드 이퀄라이저 사운드 조절 앱</td>
-      <td><a href="https://play.google.com/store/apps/details?id=com.dangundad.volumeup">Play Store ↗</a></td>
+      <td><b>🎙️ Vocal Remover</b></td>
+      <td>보컬 제거: 온디바이스 AI 기반 고음질 MR 반주 분리 생성기</td>
+      <td><a href="https://play.google.com/store/apps/details?id=com.dangundad.vocal.remover">Play Store ↗</a></td>
+    </tr>
+    <tr>
+      <td><b>⏱️ Point One (영점일초)</b></td>
+      <td>수강신청·티켓팅 0.1초 승부를 위한 밀리초 단위 서버 시간 타이머</td>
+      <td><a href="https://play.google.com/store/apps/details?id=com.dangundad.pointone">Play Store ↗</a></td>
+    </tr>
+    <tr>
+      <td><b>📄 HWP Viewer</b></td>
+      <td>한글 문서(.hwp) 전용 뷰어 - 서식 유지 및 오프라인 고속 열람</td>
+      <td><a href="https://play.google.com/store/apps/details?id=com.dangundad.hwp">Play Store ↗</a></td>
+    </tr>
+    <tr>
+      <td><b>💉 SlimShot (슬림샷)</b></td>
+      <td>위고비·마운자로 GLP-1 주사 다이어리 및 체중 감량 기록 트래커</td>
+      <td><a href="https://play.google.com/store/apps/details?id=com.dangundad.slimshot">Play Store ↗</a></td>
+    </tr>
+    <tr>
+      <td><b>✨ Gemini Eraser</b></td>
+      <td>제미나이 지우개: AI 이미지 워터마크 100% 온디바이스 무손실 복원 제거</td>
+      <td><a href="https://play.google.com/store/apps/details?id=com.dangundad.gemini.eraser">Play Store ↗</a></td>
+    </tr>
+    <tr>
+      <td><b>📹 DualShot & DualFrame</b></td>
+      <td>전·후면 동시 촬영 및 9:16 세로 + 16:9 가로 영상 동시 녹화 카메라</td>
+      <td><a href="https://play.google.com/store/apps/details?id=com.dangundad.dualshot">Play Store ↗</a></td>
     </tr>
     <tr>
       <td><b>🚨 Police Siren</b></td>
-      <td>경찰 사이렌 (소방차, 구급차 시뮬레이터, 5만+ 다운로드)</td>
+      <td>경찰 사이렌 (소방차, 구급차 시뮬레이터, 글로벌 5만+ 다운로드)</td>
       <td><a href="https://play.google.com/store/apps/details?id=com.dangundad.siren">Play Store ↗</a></td>
     </tr>
     <tr>
-      <td><b>🔮 Tarot (타로)</b></td>
-      <td>Google Gemini AI 기반 심층 타로 리딩 & 일일 운세</td>
-      <td><a href="https://github.com/dangundad/tarot">Repository ↗</a></td>
+      <td><b>🔊 Volume Up</b></td>
+      <td>소리 증폭기 & 5밴드 이퀄라이저 사운드 부스터</td>
+      <td><a href="https://play.google.com/store/apps/details?id=com.dangundad.volumeup">Play Store ↗</a></td>
     </tr>
     <tr>
-      <td><b>🪞 Mirror (거울)</b></td>
-      <td>남이 보는 내 모습(Flip)과 셀카 카메라</td>
-      <td><a href="https://github.com/dangundad/mirror">Repository ↗</a></td>
+      <td><b>🧸 티니핑 & 포켓몬 퀴즈</b></td>
+      <td>아동·팬 층을 위한 실루엣 및 초성 맞히기 캐릭터 퀴즈 도감 시리즈</td>
+      <td><a href="https://play.google.com/store/apps/details?id=com.dangundad.tiniping.quiz">Play Store ↗</a></td>
     </tr>
     <tr>
-      <td><b>⛰️ Altimeter (고도계)</b></td>
-      <td>GPS & 기압 센서 기반 정밀 고도 측정기</td>
-      <td><a href="https://play.google.com/store/apps/details?id=com.dangundad.altimeter">Play Store ↗</a></td>
+      <td><b>🍪 국민 이름 맞추기 시리즈</b></td>
+      <td>모자이크 속 과자·음료수·아이스크림·음식 이름 맞추기 캐주얼 퀴즈</td>
+      <td><a href="https://play.google.com/store/apps/details?id=com.dangundad.snackname">Play Store ↗</a></td>
     </tr>
     <tr>
-      <td><b>🔇 Sound Meter</b></td>
-      <td>사운드 미터 - 데시벨 측정, 주변 소음 및 층간 소음</td>
-      <td><a href="https://play.google.com/store/apps/details?id=com.dangundad.noisemeter">Play Store ↗</a></td>
-    </tr>
-    <tr>
-      <td><b>📿 Buddha Counter</b></td>
-      <td>108배 카운터 및 마음 챙김 절 기록</td>
-      <td><a href="https://play.google.com/store/apps/details?id=com.dangundad.buddhacounter">Play Store ↗</a></td>
-    </tr>
-    <tr>
-      <td><b>🦕 Dinosaur</b></td>
-      <td>공룡 사전: 디노 A-Z 정보 백과</td>
-      <td><a href="https://play.google.com/store/apps/details?id=com.dangundad.dinosaur">Play Store ↗</a></td>
+      <td><b>🏆 스포츠 스코어보드 (15종+)</b></td>
+      <td>축구·농구·야구·테니스·배구·배드민턴·풋살·피클볼 등 전문 점수판 제품군</td>
+      <td><a href="https://play.google.com/store/apps/details?id=com.dangundad.scoreboard">Play Store ↗</a></td>
     </tr>
   </tbody>
 </table>
@@ -144,7 +159,7 @@
 
 ### ⚙️ Automation Core Hub
 
-* 🚀 **[_automation](https://github.com/dangundad/_automation)**: 50여 개 Flutter 앱의 스토어 배포 자동화 허브
+* 🚀 **[_automation](https://github.com/dangundad/_automation)**: 150여 개 Flutter 앱의 스토어 배포 자동화 허브
   * 각 앱 폴더에 마크다운(`docs/store/`) 하나만 두면, 명령어 한 줄로 **11개국 다국어 등록정보 현지화, 인앱 결제 3종 등록, AAB/IPA 빌드 및 TestFlight / Play Console 배포**를 100% 자동 처리하는 올인원 시스템입니다.
 
 ---
