@@ -11,7 +11,7 @@
 
 > 🚀 **Solo App Creator & Automation Systems Architect**  
 > 모바일 앱 기획부터 11개국 현지화(ASO), 인앱 결제, 멀티 플랫폼 빌드 및 스토어 무인 배포 자동화까지 풀사이클을 구축하고 운영하는 1인 인디 개발자입니다.  
-> 150개 이상의 글로벌 모바일 앱(Google Play & App Store), 토스(Toss) 미니앱, 실용적인 웹 서비스 및 생산성 도구를 지속적으로 개발하고 있습니다.
+> 110개 이상의 Google Play 프로덕션 출시 앱과 실용적인 웹 서비스·자동화 도구를 지속적으로 개발하고 있습니다.
 
 ---
 
@@ -74,71 +74,108 @@
 
 ---
 
-### 📱 Featured Mobile Apps (주요 출시 및 주력 앱)
+### 📱 Google Play 프로덕션 배포 대표 앱 6선 (Featured Apps)
+
+Google Play Console 프로덕션(Production) 트랙에 정식 출시되어 서비스 중인 113개 앱 중 기술적 완성도와 사용자 반응이 가장 뛰어난 **대표 6개 프로젝트**입니다.
 
 <table>
   <thead>
     <tr>
-      <th width="28%">앱 이름</th>
-      <th width="52%">소개 및 특징</th>
-      <th width="20%">스토어 / 링크</th>
+      <th width="26%">프로젝트 / 앱</th>
+      <th width="54%">소개 및 핵심 기술</th>
+      <th width="20%">스토어 바로가기</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b>🎙️ Vocal Remover</b></td>
-      <td>보컬 제거: 온디바이스 AI 기반 고음질 MR 반주 분리 생성기</td>
-      <td><a href="https://play.google.com/store/apps/details?id=com.dangundad.vocal.remover">Play Store ↗</a></td>
+      <td>
+        <b>🎙️ Vocal Remover</b><br>
+        <code>vocal_remover</code>
+      </td>
+      <td>
+        <b>보컬 제거: MR 반주 만들기</b><br>
+        온디바이스 AI 사운드 프로세싱을 통해 곡에서 보컬을 정밀 분리하고 고음질 반주를 생성하는 오디오 유틸리티.
+      </td>
+      <td>
+        <a href="https://play.google.com/store/apps/details?id=com.dangundad.vocal.remover">
+          <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Play Store" />
+        </a>
+      </td>
     </tr>
     <tr>
-      <td><b>⏱️ Point One (영점일초)</b></td>
-      <td>수강신청·티켓팅 0.1초 승부를 위한 밀리초 단위 서버 시간 타이머</td>
-      <td><a href="https://play.google.com/store/apps/details?id=com.dangundad.pointone">Play Store ↗</a></td>
+      <td>
+        <b>🚨 Police Siren</b><br>
+        <code>siren</code>
+      </td>
+      <td>
+        <b>경찰 사이렌 (소방차, 구급차 시뮬레이터)</b><br>
+        전 세계 5만+ 다운로드를 기록한 스테디셀러. 다양한 국가별 긴급차량 경광등 애니메이션과 고출력 사이렌 사운드 지원.
+      </td>
+      <td>
+        <a href="https://play.google.com/store/apps/details?id=com.dangundad.siren">
+          <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Play Store" />
+        </a>
+      </td>
     </tr>
     <tr>
-      <td><b>📄 HWP Viewer</b></td>
-      <td>한글 문서(.hwp) 전용 뷰어 - 서식 유지 및 오프라인 고속 열람</td>
-      <td><a href="https://play.google.com/store/apps/details?id=com.dangundad.hwp">Play Store ↗</a></td>
+      <td>
+        <b>✨ AI Photo Enhancer</b><br>
+        <code>photo_upscaler</code>
+      </td>
+      <td>
+        <b>AI 사진 화질 개선: 4배 고화질 확대</b><br>
+        흐릿한 사진이나 저해상도 이미지를 딥러닝 기반 온디바이스 알고리즘으로 노이즈 없이 4배 선명하게 복원하는 비전 툴.
+      </td>
+      <td>
+        <a href="https://play.google.com/store/apps/details?id=com.dangundad.photo.upscaler">
+          <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Play Store" />
+        </a>
+      </td>
     </tr>
     <tr>
-      <td><b>💉 SlimShot (슬림샷)</b></td>
-      <td>위고비·마운자로 GLP-1 주사 다이어리 및 체중 감량 기록 트래커</td>
-      <td><a href="https://play.google.com/store/apps/details?id=com.dangundad.slimshot">Play Store ↗</a></td>
+      <td>
+        <b>🧸 Teenieping Quiz</b><br>
+        <code>tiniping_quiz</code>
+      </td>
+      <td>
+        <b>티니핑 퀴즈: 이름·초성 맞히기</b><br>
+        인기 캐릭터의 실루엣과 초성을 보고 이름을 맞히는 팬 퀴즈 게임. 전 시즌 캐릭터 도감 및 스티커 수집 시스템 탑재.
+      </td>
+      <td>
+        <a href="https://play.google.com/store/apps/details?id=com.dangundad.tiniping.quiz">
+          <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Play Store" />
+        </a>
+      </td>
     </tr>
     <tr>
-      <td><b>✨ Gemini Eraser</b></td>
-      <td>제미나이 지우개: AI 이미지 워터마크 100% 온디바이스 무손실 복원 제거</td>
-      <td><a href="https://play.google.com/store/apps/details?id=com.dangundad.gemini.eraser">Play Store ↗</a></td>
+      <td>
+        <b>📺 Live TV</b><br>
+        <code>live_tv</code>
+      </td>
+      <td>
+        <b>실시간 TV: 온에어 방송 채널</b><br>
+        지상파, 종편, 케이블 실시간 방송을 고화질로 시청할 수 있는 초경량 온에어 미디어 플레이어.
+      </td>
+      <td>
+        <a href="https://play.google.com/store/apps/details?id=com.dangundad.livetv">
+          <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Play Store" />
+        </a>
+      </td>
     </tr>
     <tr>
-      <td><b>📹 DualShot & DualFrame</b></td>
-      <td>전·후면 동시 촬영 및 9:16 세로 + 16:9 가로 영상 동시 녹화 카메라</td>
-      <td><a href="https://play.google.com/store/apps/details?id=com.dangundad.dualshot">Play Store ↗</a></td>
-    </tr>
-    <tr>
-      <td><b>🚨 Police Siren</b></td>
-      <td>경찰 사이렌 (소방차, 구급차 시뮬레이터, 글로벌 5만+ 다운로드)</td>
-      <td><a href="https://play.google.com/store/apps/details?id=com.dangundad.siren">Play Store ↗</a></td>
-    </tr>
-    <tr>
-      <td><b>🔊 Volume Up</b></td>
-      <td>소리 증폭기 & 5밴드 이퀄라이저 사운드 부스터</td>
-      <td><a href="https://play.google.com/store/apps/details?id=com.dangundad.volumeup">Play Store ↗</a></td>
-    </tr>
-    <tr>
-      <td><b>🧸 티니핑 & 포켓몬 퀴즈</b></td>
-      <td>아동·팬 층을 위한 실루엣 및 초성 맞히기 캐릭터 퀴즈 도감 시리즈</td>
-      <td><a href="https://play.google.com/store/apps/details?id=com.dangundad.tiniping.quiz">Play Store ↗</a></td>
-    </tr>
-    <tr>
-      <td><b>🍪 국민 이름 맞추기 시리즈</b></td>
-      <td>모자이크 속 과자·음료수·아이스크림·음식 이름 맞추기 캐주얼 퀴즈</td>
-      <td><a href="https://play.google.com/store/apps/details?id=com.dangundad.snackname">Play Store ↗</a></td>
-    </tr>
-    <tr>
-      <td><b>🏆 스포츠 스코어보드 (15종+)</b></td>
-      <td>축구·농구·야구·테니스·배구·배드민턴·풋살·피클볼 등 전문 점수판 제품군</td>
-      <td><a href="https://play.google.com/store/apps/details?id=com.dangundad.scoreboard">Play Store ↗</a></td>
+      <td>
+        <b>🔊 Volume Up</b><br>
+        <code>volumeup</code>
+      </td>
+      <td>
+        <b>볼륨업: 소리 증폭기 & 5밴드 EQ</b><br>
+        스마트폰 기본 볼륨 한계를 넘어서는 200% 사운드 부스트 및 장르별 5밴드 이퀄라이저·베이스 부스터.
+      </td>
+      <td>
+        <a href="https://play.google.com/store/apps/details?id=com.dangundad.volumeup">
+          <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Play Store" />
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
